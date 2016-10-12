@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.title {
+  border-bottom: 3px solid black;
+  color: gray;
+}
+
+.post {
+  font-size: 20px;
+  padding: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-top: 1px solid black;
+  background-color: skyblue;
+}
+
+.about {
+  font-family: fantasy;
+  text-align: justify;
+  border-top: 1px solid black;
+  color: gray;
+}
+
+img {
+  width: 500px;
+}
+
+tr {
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+}
